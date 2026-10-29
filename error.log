@@ -1,0 +1,6 @@
+[1792485868] Panic: panicked at C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wgpu-0.19.4\src\backend\wgpu_core.rs:724:18:
+Error in Surface::configure: Validation Error
+
+Caused by:
+    Both `Surface` width and height must be non-zero. Wait to recreate the `Surface` until the window has non-zero area.
+
